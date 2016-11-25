@@ -1,0 +1,17 @@
+---
+declared-services:
+  watson-conversation:
+    label: conversation
+    plan: free
+applications:
+- name: sirius-conversation
+  command: npm start
+  path: .
+  memory: 256M
+  instances: 1
+  services:
+  - watson-conversation
+  env:
+    NPM_CONFIG_PRODUCTION: false
+    WORKSPACE_ID: e756b000-abd5-4842-821d-0936fa715f9c
+
