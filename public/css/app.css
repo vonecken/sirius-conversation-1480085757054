@@ -432,7 +432,7 @@ html{
 }
 
 .imageGesnext {
- padding-left: 300px;
+ padding-left: 200px;
 float: left;
 padding-top: 30px;
 }
@@ -444,6 +444,7 @@ padding-top: 30px;
 #imgFenosa {
 padding-top: 10px;
 padding-left: 150px;
+float:left
 }
 
 
@@ -459,7 +460,7 @@ padding-left: 150px;
 
 #fenosaTitulo {
 clear:left;
-padding-right: 400px;
+padding-left: 400px;
 padding-top: 20px;
 font-family: Helvetica Neue for IBM,Helvetica Neue,Helvetica,Arial,sans-serif;
 font-size: 1.25rem;
