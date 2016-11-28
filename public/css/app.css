@@ -434,7 +434,6 @@ html{
 .imageGesnext {
   position: relative;
   font-size: 1rem;
-  color: #fff;
   letter-spacing: 0.015rem;
   line-height: 1.3125rem;
   border-radius: 1.25rem;
@@ -443,4 +442,24 @@ html{
   display: inline-block;
   margin-left: 2.5rem;
   min-width: 2.5rem;
+}
+
+.imageIBM {
+
+}
+
+#imgFenosa {
+  float: left;
+  padding-left: 50px;
+}
+
+
+#imgGesnext {
+  float: left;
+  padding-left: 250px;
+}
+
+#imgIBM {
+  float: left;
+  padding-left: 450px;
 }
