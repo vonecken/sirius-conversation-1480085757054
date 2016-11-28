@@ -455,8 +455,8 @@ html{
 
 
 #imgGesnext {
-  float: left;
-  padding-left: 250px;
+  float: right;
+  padding-right: 50px;
 }
 
 #imgIBM {
