@@ -432,16 +432,9 @@ html{
 }
 
 .imageGesnext {
-  position: relative;
-  font-size: 1rem;
-  letter-spacing: 0.015rem;
-  line-height: 1.3125rem;
-  border-radius: 1.25rem;
-  border-bottom-right-radius: 0;
-  text-align: left;
-  display: inline-block;
-  margin-left: 2.5rem;
-  min-width: 2.5rem;
+ padding-left: 300px;
+float: left;
+padding-top: 30px;
 }
 
 .imageIBM {
@@ -449,8 +442,8 @@ html{
 }
 
 #imgFenosa {
-  position: relative;
-  padding-left: 50px;
+padding-top: 10px;
+padding-left: 150px;
 }
 
 
@@ -459,14 +452,15 @@ html{
 }
 
 #imgIBM {
-    position: relative;
-    padding-left: 300px;
-    padding-top: 10px;
+    float:left;
+    padding-left: 150px;
+    padding-top: 40px;
 }
 
 #fenosaTitulo {
-position: relative;
-padding-right: 100px;
+clear:left;
+padding-right: 400px;
+padding-top: 20px;
 font-family: Helvetica Neue for IBM,Helvetica Neue,Helvetica,Arial,sans-serif;
 font-size: 1.25rem;
 }
