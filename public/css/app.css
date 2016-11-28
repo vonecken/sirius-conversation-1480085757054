@@ -460,6 +460,14 @@ html{
 }
 
 #imgIBM {
-  float: left;
-  padding-left: 450px;
+    float: left;
+    padding-left: 300px;
+    padding-top: 10px;
+}
+
+#fenosaTitulo {
+  float: right;
+padding-right: 100px;
+font-family: Helvetica Neue for IBM,Helvetica Neue,Helvetica,Arial,sans-serif;
+font-size: 1.25rem;
 }
