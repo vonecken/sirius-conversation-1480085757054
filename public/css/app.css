@@ -449,24 +449,23 @@ html{
 }
 
 #imgFenosa {
-  float: left;
+  position: relative;
   padding-left: 50px;
 }
 
 
 #imgGesnext {
-  float: right;
-  padding-right: 50px;
+ 
 }
 
 #imgIBM {
-    float: left;
+    position: relative;
     padding-left: 300px;
     padding-top: 10px;
 }
 
 #fenosaTitulo {
-  float: right;
+position: relative;
 padding-right: 100px;
 font-family: Helvetica Neue for IBM,Helvetica Neue,Helvetica,Arial,sans-serif;
 font-size: 1.25rem;
