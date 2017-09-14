@@ -87,7 +87,7 @@ app.post( '/api/message', function(req, res) {
       payload.context = req.body.context;
     }
   }
-   console.log(payload);
+   console.log("ALE-->"+payload);
   // Send the input to the conversation service
   conversation.message( payload, function(err, data) {
     if ( err ) {
