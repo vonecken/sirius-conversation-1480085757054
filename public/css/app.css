@@ -16,6 +16,13 @@ div {
   line-height: 1.25rem;
 }
 
+#chatContenedor {
+border-radius: 25px;
+background-color: white;
+width:30%;
+margin-left:60%;
+}
+
 #view-change-button {
   display: inline-block;
   position: absolute;
