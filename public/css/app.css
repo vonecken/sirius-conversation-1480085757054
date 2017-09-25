@@ -8,6 +8,7 @@ body {
   font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
+  background-size: 100%;
 }
 
 div {
@@ -458,10 +459,18 @@ float:left
     padding-top: 40px;
 }
 
+#tituloCognitivo{
+  margin-left: 30%;
+}
+
 #fenosaTitulo {
 clear:left;
-padding-left: 400px;
-padding-top: 20px;
+margin-left: 60%;
+width:30%;
 font-family: Helvetica Neue for IBM,Helvetica Neue,Helvetica,Arial,sans-serif;
-font-size: 1.25rem;
+font-size: 1rem;
+background-color: white;
+border-radius: 12px;
+height: 30px;
+margin-bottom: 30px;
 }
