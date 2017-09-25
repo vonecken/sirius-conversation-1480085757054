@@ -13,5 +13,5 @@ applications:
   - watson-conversation
   env:
     NPM_CONFIG_PRODUCTION: false
-    WORKSPACE_ID: e756b000-abd5-4842-821d-0936fa715f9c
+    WORKSPACE_ID: 84704bdf-e134-4d80-942d-67ef8d328df3
 
