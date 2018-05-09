@@ -20,7 +20,8 @@ div {
 border-radius: 25px;
 background-color: white;
 width:30%;
-margin-left:60%;
+margin:0 auto;
+
 }
 
 #view-change-button {
@@ -475,9 +476,10 @@ clear:left;
 margin-left: 60%;
 width:30%;
 font-family: Helvetica Neue for IBM,Helvetica Neue,Helvetica,Arial,sans-serif;
-font-size: 1rem;
+font-size: 1.4rem;
 background-color: white;
 border-radius: 12px;
 height: 30px;
 margin-bottom: 30px;
+margin-left: 20%;
 }
